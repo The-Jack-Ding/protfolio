@@ -97,3 +97,39 @@ h1 {
   width: 100%;
   height: auto;
 }
+
+.resume-page iframe {
+  border: 1px solid oklch(80% 3% 200);
+  border-radius: 0.5em;
+  margin-bottom: 2em;
+}
+
+.resume-page section {
+  margin-block: 2em;
+}
+
+.resume-page h2 {
+  border-bottom: 2px solid oklch(80% 3% 200);
+  padding-bottom: 0.3em;
+  margin-bottom: 0.75em;
+}
+
+.resume-page article {
+  margin-block: 1em;
+  padding: 1em;
+  background-color: oklch(98% 1% 200);
+  border-radius: 0.5em;
+}
+
+.resume-page header {
+  margin-bottom: 0.5em;
+}
+
+.resume-page ul {
+  padding-left: 1.25em;
+}
+
+.resume-page p,
+.resume-page li {
+  margin-block: 0.4em;
+}
