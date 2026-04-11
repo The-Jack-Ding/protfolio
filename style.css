@@ -1,9 +1,36 @@
-body {
-  /* base typography */
-  font: 100%/1.5 system-ui;
+html {
+  --color-accent: oklch(65% 50% 0);
+  accent-color: var(--color-accent);
+}
 
-  /* Step 1: keep content readable */
+body {
+  font: 100%/1.5 system-ui;
   max-width: 100ch;
   margin-inline: auto;
   padding-inline: 1em;
+}
+
+nav {
+  display: flex;
+  margin-bottom: 1.5em;
+  border-bottom: 1px solid oklch(80% 3% 200);
+}
+
+nav a {
+  flex: 1;
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+  padding: 0.5em;
+}
+
+nav a.current {
+  border-bottom: 0.4em solid oklch(80% 3% 200);
+  padding-bottom: 0.1em;
+}
+
+nav a:hover {
+  border-bottom: 0.4em solid var(--color-accent);
+  padding-bottom: 0.1em;
+  background-color: oklch(from var(--color-accent) 95% 5% h);
 }
