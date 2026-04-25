@@ -1,62 +1,74 @@
 [
-    {
-        "title": "Lorem ipsum dolor sit.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iusto tenetur quas molestiae architecto sapiente vero fuga totam rerum, inventore maiores, deserunt aut nihil sint possimus cum. Maiores quia voluptas excepturi?"
-    },
-    {
-        "title": "Eveniet fuga quisquam amet.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Cupiditate nobis minima praesentium maiores dolorem esse quod voluptatem sapiente illo fugit adipisci architecto maxime nam assumenda error atque qui dolores, eum incidunt deleniti aspernatur beatae nemo vero. Quaerat, eligendi."
-    },
-    {
-        "title": "Fugiat, rem! Sed, natus.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Corrupti adipisci ut optio. Optio cumque voluptatibus voluptatum ipsa possimus minima in, nisi, magni numquam voluptatem, molestiae similique? Id laudantium nostrum optio iusto fugit. Nulla rerum ipsam recusandae consequuntur repudiandae."
-    },
-    {
-        "title": "Necessitatibus, id laudantium. Quam?",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Ipsa praesentium fugiat repellat eaque corrupti optio laudantium aliquam, amet ea cumque aspernatur repellendus ipsum atque, perferendis veniam dolorem, minima iusto dolores vitae officiis magnam laboriosam assumenda. Voluptates, vel magni?"
-    },
-    {
-        "title": "Hic neque odit sed.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Aut possimus neque, officiis expedita cupiditate atque quisquam voluptas corporis saepe cum. Necessitatibus tenetur animi deleniti quisquam, commodi dolores architecto distinctio enim officiis, quae veniam nam accusantium debitis iure ut."
-    },
-    {
-        "title": "Necessitatibus quasi incidunt aliquid.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Accusantium dolore itaque, fugiat architecto corrupti natus similique sed eaque minima incidunt quam! Eligendi quia mollitia numquam maiores vitae reprehenderit quos repellat id eos? Eligendi temporibus totam eos recusandae incidunt."
-    },
-    {
-        "title": "Exercitationem error minus iusto.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Maxime debitis nemo voluptatibus! Qui deleniti modi, nostrum quasi iste commodi. Sequi labore, similique architecto magni vero porro veniam ut sit quidem esse. Adipisci atque non iure rem reiciendis accusamus."
-    },
-    {
-        "title": "Temporibus error itaque porro.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Vitae, inventore laborum? Magni optio repellat, distinctio amet culpa modi! Pariatur commodi hic numquam facere eaque eius, veniam id quo necessitatibus suscipit magni veritatis harum tempora inventore, ducimus dolor doloribus."
-    },
-    {
-        "title": "Vel assumenda deserunt cupiditate.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Molestias, possimus doloremque quisquam eveniet quo iure labore itaque veniam dolore voluptatum similique vel facilis dolor rerum nam magnam, quas error quis. Architecto labore iste explicabo facilis magni aliquid maiores."
-    },
-    {
-        "title": "Harum fugit quisquam voluptatibus!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Fugit ducimus optio aliquam, beatae laudantium, nisi exercitationem libero molestiae nam ad iusto distinctio doloremque recusandae illum obcaecati. In magnam quas nisi neque hic voluptate voluptas ratione voluptates provident eligendi."
-    },
-    {
-        "title": "Deserunt harum minima libero!",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Doloribus laudantium modi iure eum repudiandae magni vel esse laborum maiores id rerum quod delectus impedit, molestias, facere, quia aliquid! Tempore odio excepturi sint cum suscipit assumenda fugiat eius deleniti!"
-    },
-    {
-        "title": "Voluptatibus similique nemo inventore.",
-        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Velit consectetur esse quae debitis doloribus blanditiis similique obcaecati eaque voluptate! Dolor voluptas eaque error dicta nihil consectetur cupiditate fugiat ipsum totam omnis. Dolor ut optio consequatur. Laborum, sit et?"
-    }
+  {
+    "title": "Project 1: Expository Visualization",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A DSC 106 project focused on creating an explanatory visualization that clearly communicates data to an audience."
+  },
+  {
+    "title": "Project 2: Persuasive/Deceptive Visualization",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A DSC 106 project focused on using visualization design choices to persuade an audience or show how charts can be misleading."
+  },
+  {
+    "title": "Project 3: Interactive Visualization",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A DSC 106 project focused on building an interactive visualization that lets users explore data."
+  },
+  {
+    "title": "Final Project",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "The final DSC 106 project applying data visualization, design, interaction, and communication skills."
+  },
+  {
+    "title": "Lab 1: Introduction to the Web Platform",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A lab focused on building the basic structure of a personal website using HTML."
+  },
+  {
+    "title": "Lab 2: Styling with CSS",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A lab focused on styling a personal website with CSS, layout, spacing, and visual design."
+  },
+  {
+    "title": "Lab 3: Introduction to JavaScript",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A lab focused on adding JavaScript behavior to a personal website."
+  },
+  {
+    "title": "Lab 4: JavaScript II",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A lab focused on JavaScript modules, JSON project data, reusable rendering functions, and API data."
+  },
+  {
+    "title": "Personal Website",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A personal portfolio website built with HTML, CSS, and JavaScript."
+  },
+  {
+    "title": "Recipe Rating Analysis",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A data science project analyzing recipe ratings and building a model to predict user ratings."
+  },
+  {
+    "title": "Internet Coverage Project",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A project analyzing internet coverage data in California before and after COVID-19."
+  },
+  {
+    "title": "You Can Be Better",
+    "year": "2021",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "An educational project focused on online learning habits, student well-being, and practical study guides."
+  }
 ]
