@@ -241,3 +241,74 @@ h1 {
 .legend-item.selected .swatch {
   background: var(--color);
 }
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 0.5em;
+  text-align: center;
+}
+
+.stats dt {
+  font-weight: bold;
+  grid-row: 1;
+}
+
+.stats dd {
+  grid-row: 2;
+  margin: 0;
+}
+
+.gridlines line {
+  stroke: oklch(80% 3% 200);
+  stroke-opacity: 0.5;
+}
+
+.gridlines path {
+  display: none;
+}
+
+dl.info {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.25em 0.75em;
+  margin: 0;
+  transition-duration: 500ms;
+  transition-property: opacity, visibility;
+}
+
+dl.info dt {
+  color: color-mix(in oklch, canvasText, canvas 40%);
+  font-weight: bold;
+}
+
+dl.info dd {
+  margin: 0;
+}
+
+.tooltip {
+  position: fixed;
+  top: 1em;
+  left: 1em;
+  padding: 0.75em 1em;
+  background-color: canvas;
+  border: 1px solid oklch(80% 3% 200);
+  border-radius: 0.5em;
+  box-shadow: 0 0.25em 0.75em oklch(0% 0% 0 / 20%);
+  pointer-events: none;
+}
+
+dl.info[hidden]:not(:hover, :focus-within) {
+  opacity: 0;
+  visibility: hidden;
+}
+
+circle {
+  transition: 200ms;
+  transform-origin: center;
+  transform-box: fill-box;
+}
+
+circle:hover {
+  transform: scale(1.5);
+}

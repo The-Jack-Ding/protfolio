@@ -4,19 +4,12 @@ function $$(selector, context = document) {
   return Array.from(context.querySelectorAll(selector));
 }
 
-    // let navLinks = $$('nav a');
-
-    // let currentLink = navLinks.find(
-    // (a) => a.host === location.host && a.pathname === location.pathname
-    // );
-
-    // currentLink?.classList.add('current');
-
 const pages = [
   { url: "", title: "Home" },
   { url: "projects/", title: "Projects" },
   { url: "contact/", title: "Contact" },
   { url: "resume/", title: "Resume" },
+  { url: "meta/", title: "Meta" },
   { url: "https://github.com/The-Jack-Ding", title: "GitHub" },
 ];
 
